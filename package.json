@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "athena-client": "^2.3.1"
+    "athena-client": "^2.3.1",
+    "express": "^4.16.3"
   }
 }
